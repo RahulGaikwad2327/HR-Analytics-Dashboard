@@ -21,7 +21,8 @@ Employee attrition is costly: it increases hiring expenses, disrupts teams, and 
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/hr-analytics-dashboard.png)
+![HR Analytics Dashboard] <img width="894" height="506" alt="image" src="https://github.com/user-attachments/assets/0f737d89-a198-49f1-bdb3-e2b219659053" />
+
 
 ---
 
